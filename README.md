@@ -1,15 +1,86 @@
-# 💫 About Me:
-### Hi, I'm Pratham Shah 👋  <br>A passionate Software Developer who loves building real-world, production-ready systems.  <br><br>- 🚀 MERN Stack Developer | JavaScript & Node.js  <br>- 📚 Learning DSA in JavaScript & System Design  <br>- 🌐 Exploring AI/ML, LLMs, and backend engineering  <br>- ⚡ Love solving problems, creating products, and learning deeply  
+# Hi, I'm Pratham Shah 👋
 
+🚀 **About Me**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-shah-729432258/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/pshah_lab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pshah88669@gmail.com) 
+I’m a passionate **Software Developer** who enjoys building **real-world, production-ready systems** and understanding how things work under the hood.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I primarily work with **JavaScript, Node.js, and the MERN stack**, and I’m currently deepening my knowledge of **Data Structures & Algorithms, System Design, and backend engineering**. I love breaking down complex problems, designing clean architectures, and shipping meaningful products.
+
+I actively explore **AI/ML, LLMs, and modern backend systems**, and I enjoy learning by building — from APIs to full-stack applications.
+
+---
+
+🛠 **Skills & Tools**
+
+**Programming & Core**
+- JavaScript (ES6+), TypeScript, Python  
+- Data Structures & Algorithms (JavaScript)
+
+**Frontend**
+- React.js, Next.js, HTML, CSS, Tailwind CSS  
+- GSAP, Framer Motion, Three.js (for interactive UI)
+
+**Backend**
+- Node.js, Express.js, FastAPI  
+- REST APIs, Authentication (JWT), Middleware Design
+
+**Databases & Cloud**
+- MongoDB, PostgreSQL, SQLite, Supabase  
+- AWS, Google Cloud, Vercel
+
+**Dev & Tooling**
+- Git & GitHub  
+- Docker (learning), Webpack, Vite  
+- System Design fundamentals
+
+---
+
+📂 **Featured Projects**
+
+Here are a few projects that reflect how I think and build:
+
+### 🧠 InsightVault
+A semantic search and knowledge retrieval system powered by LLMs.  
+- Architected backend APIs with caching and latency optimization  
+- Integrated vector-based search for accurate context retrieval  
+- Focused on scalable, modular system design  
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pshah-lab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔗 AI URL Summarizer
+An AI-powered service that extracts, processes, and summarizes content from URLs.  
+- Built a backend pipeline to fetch, clean, and chunk web content  
+- Generated concise, context-aware summaries using LLMs  
+- Designed with modular services for extraction, validation, and summarization  
+
+
+---
+
+### 🌄 Abhinandan Mountrea
+A digital platform built to showcase the vision, initiatives, and outreach of Abhinandan Mountrea.  
+- Designed and developed a responsive, modern web presence  
+- Focused on performance, accessibility, and clean UI/UX  
+- Implemented scalable frontend structure for future content expansion  
+
+🔗 *Project link: https://www.abhinandanmountreea.com/
+
+---
+
+### 🤖 Neuro Signal Classifier
+A machine-learning project focused on classifying EEG brain signals.  
+- Detects intention-based arm movement (left/right)  
+- Built as part of a broader brain-controlled prosthetic system  
+
+🔗 *Research-based project*
+
+📢 **Connect With Me**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pratham-shah-729432258  
+- 🐦 X (Twitter): https://x.com/pshah_lab  
+- 📧 Email: pshah88669@gmail.com  
+
+---
+
+I enjoy collaborating on meaningful projects, discussing system design, and learning through building.  
+If you’re working on something interesting — feel free to connect 🚀

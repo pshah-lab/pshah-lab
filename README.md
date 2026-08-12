@@ -1,6 +1,6 @@
 # Hi, I'm Pratham Shah 👋
 
-🚀 **About Me**
+**About Me**
 
 I’m a passionate **Software Developer** who enjoys building **real-world, production-ready systems** and understanding how things work under the hood.
 
@@ -10,7 +10,7 @@ I actively explore **AI/ML, LLMs, and modern backend systems**, and I enjoy lear
 
 ---
 
-🛠 **Skills & Tools**
+**Skills & Tools**
 
 **Programming & Core**
 - JavaScript (ES6+), TypeScript, Python  
@@ -35,11 +35,11 @@ I actively explore **AI/ML, LLMs, and modern backend systems**, and I enjoy lear
 
 ---
 
-📂 **Featured Projects**
+**Featured Projects**
 
 Here are a few projects that reflect how I think and build:
 
-### 🧠 InsightVault
+### InsightVault
 A semantic search and knowledge retrieval system powered by LLMs.  
 - Architected backend APIs with caching and latency optimization  
 - Integrated vector-based search for accurate context retrieval  
@@ -48,7 +48,7 @@ A semantic search and knowledge retrieval system powered by LLMs.
 
 ---
 
-### 🔗 AI URL Summarizer
+### AI URL Summarizer
 An AI-powered service that extracts, processes, and summarizes content from URLs.  
 - Built a backend pipeline to fetch, clean, and chunk web content  
 - Generated concise, context-aware summaries using LLMs  
@@ -57,7 +57,7 @@ An AI-powered service that extracts, processes, and summarizes content from URLs
 
 ---
 
-### 🌄 Abhinandan Mountrea
+### Abhinandan Mountrea
 A digital platform built to showcase the vision, initiatives, and outreach of Abhinandan Mountrea.  
 - Designed and developed a responsive, modern web presence  
 - Focused on performance, accessibility, and clean UI/UX  
@@ -67,18 +67,18 @@ A digital platform built to showcase the vision, initiatives, and outreach of Ab
 
 ---
 
-### 🤖 Neuro Signal Classifier
+### Neuro Signal Classifier
 A machine-learning project focused on classifying EEG brain signals.  
 - Detects intention-based arm movement (left/right)  
 - Built as part of a broader brain-controlled prosthetic system  
 
-🔗 *Research-based project*
+*Research-based project*
 
-📢 **Connect With Me**
+**Connect With Me**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pratham-shah-729432258  
-- 🐦 X (Twitter): https://x.com/pshah_lab  
-- 📧 Email: pshah88669@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pratham-shah-729432258  
+- X (Twitter): https://x.com/pshah_lab  
+- Email: pshah88669@gmail.com  
 
 ---
 
